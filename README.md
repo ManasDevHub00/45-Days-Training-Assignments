@@ -1,11 +1,11 @@
-# 45-Days-Internship-Assignments
+# 45-Days-Training-Assignments
 
 # Assignment 1 – Basic Python
 
 
 ### Data Science with AI/ML
 
-This repository contains the solutions for Assignment 1 of the 45 Days Summer Internship Program.
+This repository contains the solutions for Assignment 1 of the 45 Days Summer Training Program.
 
 ## Topics Covered
 
